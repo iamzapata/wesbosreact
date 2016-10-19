@@ -1,20 +1,19 @@
 {
   "name": "cotd",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": true,
-  "license": "MIT",
   "devDependencies": {
-    "autoprefixer-stylus": "^0.11.0",
-    "concurrently": "^3.1.0",
-    "react-scripts": "^0.6.1",
-    "stylus": "^0.54.5"
+    "autoprefixer-stylus": "0.10.0",
+    "concurrently": "3.0.0",
+    "react-scripts": "0.6.1",
+    "stylus": "0.54.5"
   },
   "dependencies": {
-    "history": "^4.3.0",
-    "re-base": "^2.2.0",
-    "react": "^15.3.2",
-    "react-addons-css-transition-group": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "history": "4.2.0",
+    "re-base": "2.2.0",
+    "react": "15.3.2",
+    "react-addons-css-transition-group": "15.3.2",
+    "react-dom": "15.3.2",
     "react-router": "4.0.0-alpha.3"
   },
   "scripts": {
